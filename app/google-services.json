@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377060773806",
+    "project_id": "aplicativosrecebedorcliente",
+    "storage_bucket": "aplicativosrecebedorcliente.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377060773806:android:e5411f0d62fd5443a1c23f",
+        "android_client_info": {
+          "package_name": "com.example.aplicativocliente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeFTbpB5yzuUhFl4-4zhOYcZLOi6FSISM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377060773806:android:787109a7feebd39ba1c23f",
+        "android_client_info": {
+          "package_name": "com.example.aplicativorecebedor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeFTbpB5yzuUhFl4-4zhOYcZLOi6FSISM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
